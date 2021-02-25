@@ -12,9 +12,12 @@ for (const fish of allTheFish) {
 FishList()
 
 import { getTips } from './tips/TipData.js'
+import { TipList } from './tips/TipList.js';
 
 const allTheTips = getTips()
 
 for (const tips of allTheTips) {
     console.log(tips)
 }
+
+TipList()
