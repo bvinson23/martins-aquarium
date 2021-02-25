@@ -24,7 +24,8 @@ const fishCollection = [
         name: "BigBoss", 
         species: "Amber Jack", 
         inches: 60, 
-        image: "pinkfish.jpg" },
+        image: "pinkfish.jpg" 
+	},
 	{
 		saltWater: true,
 		harvestLocation: "Pacific Ocean",
@@ -65,7 +66,7 @@ const fishCollection = [
 		saltWater: true,
 		harvestLocation: "Atlantic Ocean",
 		diet: "Plankton",
-		fishName: "Nemo",
+		name: "Nemo",
 		species: "Clownfish",
 		inches: 4,
 		image: "bluefish.jpg"
@@ -95,7 +96,7 @@ const fishCollection = [
 		name: "Whiskers",
 		species: "Ictalurus furcatus",
 		inches: 39,
-		image: "blueCatfish.jpg"
+		image: "pinkfish.jpg"
 	},
 	{ 
         saltWater: true, 
@@ -113,7 +114,7 @@ const fishCollection = [
         name: "Dorothy", 
         species: "goldfish", 
         inches: 3, 
-        img: "bluefish.jpg" 
+        image: "bluefish.jpg" 
     },
 	{
 		saltWater: false,
