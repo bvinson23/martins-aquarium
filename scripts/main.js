@@ -10,3 +10,11 @@ for (const fish of allTheFish) {
 }
 
 FishList()
+
+import { getTips } from './tips/TipData.js'
+
+const allTheTips = getTips()
+
+for (const tips of allTheTips) {
+    console.log(tips)
+}
