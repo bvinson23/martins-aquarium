@@ -1,7 +1,7 @@
 console.log("you did it");
 
-import { getFish } from './FishData.js'
-import { FishList } from './FishList.js'
+import { getFish } from '../fish/FishData.js'
+import { FishList } from '../fish/FishList.js'
 
 const allTheFish = getFish()
 
