@@ -21,3 +21,13 @@ for (const tips of allTheTips) {
 }
 
 TipList()
+
+import { LocationList } from './locations/LocationList.js'
+import { getLocations } from './locations/LocationData.js'
+
+LocationList()
+const allTheLocations = getLocations()
+
+for (const location of allTheLocations) {
+    console.log(location)
+}
