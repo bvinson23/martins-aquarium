@@ -137,7 +137,7 @@ const fishCollection = [
 	{
 		saltWater: true,
 		harvestLocation: "Barbados",
-		diet: "anchoves",
+		diet: "anchovies",
 		name: "Pizza",
 		species: "Tuna",
 		inches: 40,

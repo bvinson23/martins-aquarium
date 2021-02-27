@@ -1,0 +1,1 @@
+const locationCollection = ["Pacific Ocean", "Bali", "Atlantic Ocean", "Gulf of Mexico", "Amazon Basin", "Mississippi River", "Bobbies Fish Emporium", "Cumberland River", "South Pacific", "Petsmart", "Lake Tahoe", "Carribbean Sea", "Barbados", ]
