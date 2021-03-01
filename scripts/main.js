@@ -21,3 +21,8 @@ for (const tips of allTheTips) {
 }
 
 TipList()
+
+import { locationCollection } from './locations/LocationData.js'
+import { LocationList } from './locations/LocationList.js'
+
+LocationList()
