@@ -1,5 +1,6 @@
 /* Be sure to create a styles directory and put this file in there */
 /* @import "tips.css"; */
+@import ./tips.css
 
 body {
 	background-color: antiquewhite;
@@ -89,4 +90,20 @@ footer {
 
 h2 {
     text-align: center;
+}
+
+.mainContainer {
+	display: flex;
+}
+
+.fishcontainer {
+
+}
+
+.tipContainer {
+	order: 1;
+}
+
+.locationContainer {
+
 }
