@@ -92,18 +92,18 @@ h2 {
     text-align: center;
 }
 
+.fishLocationContainer {
+	display: flex;
+	flex-direction: column;
+}
+
 .mainContainer {
 	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
 }
 
-.fishcontainer {
-
-}
-
-.tipContainer {
-	order: 1;
-}
-
-.locationContainer {
-
+aside {
+	width: 1000px;
+	font-size: 16pt;
 }
