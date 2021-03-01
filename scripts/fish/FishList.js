@@ -11,5 +11,5 @@ export const FishList = () => {
     contentElement.innerHTML += `${fishHTMLRepresentation}`
 }
 
-import { getFish, getMostHolyFish, getSoldierFish, getUnworthy } from "./FishData.js"
+import { getMostHolyFish, getSoldierFish, getUnworthy } from "./FishData.js"
 import { Fish } from "./Fish.js"
