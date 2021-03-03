@@ -6,7 +6,7 @@ const fishCollection = [
 		name: "Malcolm",
 		species: "Blue Tang",
 		inches: 13,
-		image: "bluefish.jpg"
+		image: "bluetang.jpg"
 	},
 	{
 		saltWater: true,
@@ -15,7 +15,7 @@ const fishCollection = [
 		name: "Bob",
 		species: "Guppy",
 		inches: 3,
-		image: "pinkfish.jpg"
+		image: "guppy.jpg"
 	},
 	{ 
         saltWater: true, 
@@ -24,7 +24,7 @@ const fishCollection = [
         name: "BigBoss", 
         species: "Amber Jack", 
         inches: 60, 
-        image: "pinkfish.jpg" 
+        image: "amberjack.jpg" 
 	},
 	{
 		saltWater: true,
@@ -33,7 +33,7 @@ const fishCollection = [
 		name: "Jerry",
 		species: "swordfish",
 		inches: 80,
-		image: "bluefish.jpg"
+		image: "swordfish.jpg"
 	},
 	{
 		saltWater: true,
@@ -42,7 +42,7 @@ const fishCollection = [
 		name: "Predator",
 		species: "catfish",
 		inches: 20,
-		image: "bluefish.jpg"
+		image: "catfish.jpg"
 	},
 	{
 		saltWater: true,
@@ -51,14 +51,14 @@ const fishCollection = [
 		name: "Sabre",
 		species: "Swordfish",
 		inches: 117.6,
-		image: "bluefish.jpg"
+		image: "swordfish.jpg"
 	},
 	{
 		saltWater: false,
 		harvestLocation: "Amazon Basin",
 		diet: "brine shrimp",
 		name: "Myrti",
-		image: "pinkfish.jpg",
+		image: "angelfish.jpg",
 		inches: 12,
 		species: "angel fish"
 	},
@@ -69,7 +69,7 @@ const fishCollection = [
 		name: "Nemo",
 		species: "Clownfish",
 		inches: 4,
-		image: "bluefish.jpg"
+		image: "clownfish.jpg"
 	},
 	{
 		saltwater: false,
@@ -78,7 +78,7 @@ const fishCollection = [
 		name: "Vacuum",
 		species: "Catfish",
 		inches: 24,
-		image: "bluefish.jpg"
+		image: "catfish.jpg"
 	},
 	{
 		saltWater: false,
@@ -87,7 +87,7 @@ const fishCollection = [
 		name: "Ralph",
 		species: "Smallmouth Bass",
 		inches: 14,
-		image: "bluefish.jpg"
+		image: "smallmouth.jpg"
 	},
 	{
 		saltWater: "false",
@@ -96,7 +96,7 @@ const fishCollection = [
 		name: "Whiskers",
 		species: "Ictalurus furcatus",
 		inches: 39,
-		image: "pinkfish.jpg"
+		image: "bluecat.jpg"
 	},
 	{ 
         saltWater: true, 
@@ -105,7 +105,7 @@ const fishCollection = [
         inches: 64, 
         species: "Tuna", 
         name: "Bruno", 
-        image: "bluefish.jpg" 
+        image: "tuna.jpg" 
     },
 	{ 
         saltWater: false, 
@@ -114,7 +114,7 @@ const fishCollection = [
         name: "Dorothy", 
         species: "goldfish", 
         inches: 3, 
-        image: "bluefish.jpg" 
+        image: "goldfishcracker.jpg" 
     },
 	{
 		saltWater: false,
@@ -123,7 +123,7 @@ const fishCollection = [
 		name: "Trent",
 		species: "Rainbow Trout",
 		inches: 21,
-		image: "bluefish.jpg"
+		image: "rainbow.jpg"
 	},
 	{
 		saltWater: true,
@@ -132,7 +132,7 @@ const fishCollection = [
 		name: "Stephen",
 		species: "Angler",
 		inches: 23,
-		image: "bluefish.jpg"
+		image: "anglerfish.jpg"
 	},
 	{
 		saltWater: true,
@@ -141,7 +141,7 @@ const fishCollection = [
 		name: "Pizza",
 		species: "Tuna",
 		inches: 40,
-		image: "pinkfish.jpg"
+		image: "tuna.jpg"
 	},
 	{
 		saltWater: false,
@@ -150,7 +150,7 @@ const fishCollection = [
 		name: "Finn",
 		species: "Bass",
 		inches: 20,
-		image: "bluefish.jpg",
+		image: "smallmouth.jpg",
 	},
 	{
 		saltWater: true,
@@ -159,7 +159,7 @@ const fishCollection = [
 		species: "lionfish",
 		harvestLocation: "Red Sea",
 		inches: 10,
-		image: "bluefish.jpg"
+		image: "lionfish.jpg"
 	},
 	{
 		saltWater: true,
@@ -168,7 +168,7 @@ const fishCollection = [
 		name: "Tiki",
 		species: "Parrot Fish",
 		inches: 36,
-		image: "bluefish.jpg"
+		image: "parrotfish.jpg"
 	},
 	{
 		saltWater: true,
@@ -177,14 +177,14 @@ const fishCollection = [
 		name: "Bobo",
 		species: "Clown Fish",
 		inches: 5,
-		image: "bluefish.jpg"
+		image: "clownfish.jpg"
 	},
 	{
 		saltWater: true,
 		harvestLocation: "Atlantic Sea",
 		name: "flipper",
 		inches: 12,
-		image: "pinkfish.jpg",
+		image: "garibaldi.jpg",
 		diet: "worms",
 		species: "garibaldi"
 	},
@@ -195,7 +195,7 @@ const fishCollection = [
 		name: "Pearl",
 		species: "Whale",
 		inches: 1000,
-		image: "bluefish.jpg"
+		image: "whale.jpg"
 	},
 	{
 		saltWater: false,
@@ -204,7 +204,7 @@ const fishCollection = [
 		name: "Cthulhu",
 		species: "Old One",
 		inches: 999,
-		image: "pinkfish.jpg"
+		image: "cthulhu.jpg"
 	},
 	{ 
         saltWater: false, 
@@ -213,16 +213,16 @@ const fishCollection = [
         name: "Bitey", 
         species: "Pirhana", 
         inches: 7.5, 
-        image: "bluefish.jpg" 
+        image: "pirahna.jpg" 
     },
 	{
 		saltwater: true,
 		harvestLocation: "St.Croix",
 		diet: "squid",
 		name: "Crush",
-		species: "blue ting",
+		species: "blue tang",
 		inches: 7,
-		image: "bluefish.jpg"
+		image: "bluetang.jpg"
 	},
 	{
 		saltWater: false,
@@ -231,7 +231,7 @@ const fishCollection = [
 		name: "Frank",
 		species: "Piranha",
 		inches: 7,
-		image: "bluefish.jpg"
+		image: "pirahna.jpg"
 	},
 	{ 
         saltWater: true, 
@@ -240,7 +240,7 @@ const fishCollection = [
         name: "bluefin tuna", 
         species: "Thunnus thynnus", 
         inches: 84, 
-        image: "pinkfish.jpg" 
+        image: "bluefin.jpg" 
     },
 	{
 		saltwater: true,
@@ -249,7 +249,7 @@ const fishCollection = [
 		name: "Fil",
 		species: "goldFish",
 		inches: 40,
-		image: "bluefish.jpg"
+		image: "goldfish.jpg"
     }
 ]
 
