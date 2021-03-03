@@ -1,5 +1,5 @@
 /* Be sure to create a styles directory and put this file in there */
-/* @import "tips.css"; */
+@import "tips.css";
 
 body {
 	background-color: antiquewhite;
@@ -56,7 +56,7 @@ nav a:active {
 #fishList{
 	display: flex;
 	flex-wrap: wrap;
-	justify-content: space-evenly;	
+	justify-content: space-around;	
 }
 
 .fish-card {
@@ -102,8 +102,15 @@ h2 {
 	justify-content: space-between;
 }
 
-aside {
-	width: 1200px;
-	font-size: 16pt;
-	margin-right: 10px;
+h3 {
+	padding: .2em;
+}
+
+.fishContainer {
+	/* border: 1px solid red; */
+}
+
+.locationContainer {
+	/* border: 1px solid red; */
+	background-color: #A0E2BD;	
 }
